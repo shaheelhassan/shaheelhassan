@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Android App Development**
 
-- 💬 Ask me about **AI image generation ,html ,React**
+- 💬 Ask me about **AI C C++ C# .NET JAVA JQUERY SQL PHP**
 
 - 📫 How to reach me **shaheel084@gmail.com**
 
