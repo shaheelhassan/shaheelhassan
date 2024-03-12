@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm shaheel hassan a full-time full-stack freelance developer 👨‍💻 working remotely since 2022 🚀</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h1 align="center">Hi 👋, I'm shaheel hassan </h1>
+<h3 align="center">A full-time full-stack freelance developer 👨‍💻 working remotely since 2023 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaheelhassan&label=Profile%20views&color=0e75b6&style=flat" alt="shaheelhassan" /> </p>
 
