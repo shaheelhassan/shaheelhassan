@@ -1,35 +1,87 @@
 <div align="center">
 
-# 👋 Hi, I'm Shaheel Hassan
-### 🚀 Frontend Developer | UI Engineer | Tech Enthusiast
+<h1>👋 Hi, I'm Shaheel Hassan</h1>
+<h3>🚀 Frontend Developer | UI Engineer | Tech Enthusiast</h3>
 
-📍 Pakistan 🇵🇰  
-💬 Ask me about **Python, C++, React, Java, C#**  
-📫 **shaheel088@gmail.com**
+📍 Pakistan 🇵🇰<br>
+💬 Ask me about <b>Python, C++, React, Java, C#</b><br>
+📫 <b>shaheel088@gmail.com</b>
 
 </div>
 
----
+<hr>
 
-## 🧩 Profile Overview
-
-| 🛠️ Technical Skills | | 📊 GitHub Analytics |
-|---------------------|-----------------|---------------------|
-| ### 👨‍💻 Programming Languages<br>• Python • JavaScript • TypeScript<br>• C • C++ • C# • Java • PHP<br><br>### 🎨 Frontend Development<br>• React • Angular • Vue<br>• Tailwind CSS • Bootstrap • Sass<br><br>### ⚙️ Backend & APIs<br>• Node.js • Express<br>• Django • Flask • Laravel • .NET<br><br>### 🗄️ Databases<br>• MySQL • PostgreSQL<br>• MongoDB • SQLite • SQL Server<br><br>### 🧠 AI / Data Science<br>• TensorFlow • PyTorch<br>• Scikit-learn • Pandas • OpenCV<br><br>### 🧰 Tools & Platforms<br>• Git • Linux • Firebase<br>• Figma • Nginx | | <img src="https://github-readme-stats.vercel.app/api?username=shaheelhassan&show_icons=true&count_private=true&include_all_commits=true&card_width=420&theme=tokyonight" width="100%" /><br><br><img src="https://github-readme-streak-stats.herokuapp.com/?user=shaheelhassan&theme=tokyonight" width="100%" /> |
-
----
-
-## 🔥 What I Do
-- Build **modern, responsive UIs**
-- Develop **scalable frontend architectures**
-- Integrate **REST APIs & backend services**
-- Work with **databases & cloud platforms**
-- Explore **AI-powered web apps**
-
----
-
+<!-- Row 2: Technical Skills + GitHub Analytics -->
 <div align="center">
 
-⭐️ *Check out my repositories and feel free to collaborate*
+<table width="90%" cellpadding="10" cellspacing="0" style="border: 4px solid #000; border-collapse: collapse;">
+<tr>
+<td width="55%" valign="top" style="border-right: 4px solid #000;">
 
+<h3>🛠️ Technical Skills</h3>
+
+<b>👨‍💻 Programming Languages</b><br>
+Python, JavaScript, TypeScript, C, C++, C#, Java, PHP<br><br>
+
+<b>🎨 Frontend Development</b><br>
+React, Angular, Vue, Tailwind CSS, Bootstrap, Sass<br><br>
+
+<b>⚙️ Backend & APIs</b><br>
+Node.js, Express, Django, Flask, Laravel, .NET<br><br>
+
+<b>🗄️ Databases</b><br>
+MySQL, PostgreSQL, MongoDB, SQLite, SQL Server<br><br>
+
+<b>🧠 AI / Data Science</b><br>
+TensorFlow, PyTorch, Scikit-learn, Pandas, OpenCV<br><br>
+
+<b>🧰 Tools & Platforms</b><br>
+Git, Linux, Firebase, Figma, Nginx
+
+</td>
+
+<td width="45%" valign="top">
+
+<h3>📊 GitHub Analytics</h3>
+
+<img src="https://github-readme-stats.vercel.app/api?username=shaheelhassan&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" width="100%" /><br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shaheelhassan&theme=tokyonight" width="100%" /><br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaheelhassan&theme=tokyonight" width="100%" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<hr>
+
+<!-- Row 3: What I Do -->
+<div align="center">
+
+<h3>🔥 What I Do</h3>
+
+<table width="80%" cellpadding="15" cellspacing="0" style="border: 4px solid #333; border-radius: 12px; background-color: #0d1117;">
+<tr>
+<td align="center" style="color: #c9d1d9; font-size: 16px;">
+
+<p>💻 <b>Build modern, responsive UIs</b></p>
+<p>⚡ <b>Develop scalable frontend architectures</b></p>
+<p>🔗 <b>Integrate REST APIs & backend services</b></p>
+<p>🗄️ <b>Work with databases & cloud platforms</b></p>
+<p>🤖 <b>Explore AI-powered web applications</b></p>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<hr>
+
+<!-- Footer -->
+<div align="center">
+⭐️ <i>Check out my repositories and feel free to collaborate</i>
 </div>
