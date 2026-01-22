@@ -1,10 +1,8 @@
-<div align="center">
-  <img src="./banner.png" alt="Banner" width="100%">
-</div>
+
 
 <div align="center">
   
-  # 🚀 Welcome to Shaheel's Universe!
+  # Welcome to Shaheel's Universe!
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=CEO+%26+Founder+of+Proton+Soft+Tech;Full+Stack+Developer;Graphic+Designer;Ethical+Hacker;Freelancer" alt="Typing SVG" />
 
@@ -23,18 +21,18 @@
 
 ---
 
-### 💫 Summary
+### Summary
 I am a **Graphic Designer** and **Web Developer** with over two years of freelancing experience, specializing in creative designs and dynamic web applications. I also provide expertise in ERP solutions like **SAP** to optimize business processes. Let’s collaborate on innovative and impactful projects!
 
-- 🔭 Currently running **Proton Soft Tech** as CEO & Founder
-- 🌱 Studying **BS Computer Science** at Capital University of Science & Technology (2022-2026)
-- 👯 Expert in **Full Stack Development** and **Ethical Hacking**
-- 💬 Ask me about **Python, C++, and Cybersecurity**
-- ⚡ Location: **Islāmābād, Pakistan**
+- Currently running **Proton Soft Tech** as CEO & Founder
+- Studying **BS Computer Science** at Capital University of Science & Technology (2022-2026)
+- Expert in **Full Stack Development** and **Ethical Hacking**
+- Ask me about **Python, C++, and Cybersecurity**
+- Location: **Islāmābād, Pakistan**
 
 ---
 
-### 🛠️ My Tech Stack
+### My Tech Stack
 
 <div align="center">
   
@@ -66,7 +64,7 @@ I am a **Graphic Designer** and **Web Developer** with over two years of freelan
 
 ---
 
-### 💼 Experience
+### Experience
 
 | Position | Company | Duration | Location |
 | :--- | :--- | :--- | :--- |
@@ -77,28 +75,25 @@ I am a **Graphic Designer** and **Web Developer** with over two years of freelan
 
 ---
 
-### 📜 Certifications & Skills
-- 🎓 **Applied Cyber Security**
-- 🎨 **Graphic Design Specialist**
-- 💻 **Freelancing Professional**
-- 🛡️ **Cybersecurity Fundamentals**
+### Certifications & Skills
+- **Applied Cyber Security**
+- **Graphic Design Specialist**
+- **Freelancing Professional**
+- **Cybersecurity Fundamentals**
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shaheelhassan&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaheelhassan&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaheelhassan&theme=tokyonight&hide_border=true" width="100%" />
-</div>
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 
 <div align="center">
   <a href="https://linkedin.com/in/shaheelhassan" target="_blank">
@@ -114,7 +109,4 @@ I am a **Graphic Designer** and **Web Developer** with over two years of freelan
 
 <br />
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=60&section=footer" width="100%" />
-</div>
 
