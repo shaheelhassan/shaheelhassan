@@ -1,87 +1,120 @@
 <div align="center">
-
-<h1>👋 Hi, I'm Shaheel Hassan</h1>
-<h3>🚀 Frontend Developer | UI Engineer | Tech Enthusiast</h3>
-
-📍 Pakistan 🇵🇰<br>
-💬 Ask me about <b>Python, C++, React, Java, C#</b><br>
-📫 <b>shaheel088@gmail.com</b>
-
+  <img src="./banner.png" alt="Banner" width="100%">
 </div>
 
-<hr>
-
-<!-- Row 2: Technical Skills + GitHub Analytics -->
 <div align="center">
+  
+  # 🚀 Welcome to Shaheel's Universe!
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=CEO+%26+Founder+of+Proton+Soft+Tech;Full+Stack+Developer;Graphic+Designer;Ethical+Hacker;Freelancer" alt="Typing SVG" />
 
-<table width="90%" cellpadding="10" cellspacing="0" style="border: 4px solid #000; border-collapse: collapse;">
-<tr>
-<td width="55%" valign="top" style="border-right: 4px solid #000;">
-
-<h3>🛠️ Technical Skills</h3>
-
-<b>👨‍💻 Programming Languages</b><br>
-Python, JavaScript, TypeScript, C, C++, C#, Java, PHP<br><br>
-
-<b>🎨 Frontend Development</b><br>
-React, Angular, Vue, Tailwind CSS, Bootstrap, Sass<br><br>
-
-<b>⚙️ Backend & APIs</b><br>
-Node.js, Express, Django, Flask, Laravel, .NET<br><br>
-
-<b>🗄️ Databases</b><br>
-MySQL, PostgreSQL, MongoDB, SQLite, SQL Server<br><br>
-
-<b>🧠 AI / Data Science</b><br>
-TensorFlow, PyTorch, Scikit-learn, Pandas, OpenCV<br><br>
-
-<b>🧰 Tools & Platforms</b><br>
-Git, Linux, Firebase, Figma, Nginx
-
-</td>
-
-<td width="45%" valign="top">
-
-<h3>📊 GitHub Analytics</h3>
-
-<img src="https://github-readme-stats.vercel.app/api?username=shaheelhassan&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" width="100%" /><br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shaheelhassan&theme=tokyonight" width="100%" /><br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaheelhassan&theme=tokyonight" width="100%" />
-
-</td>
-</tr>
-</table>
-
+  <p align="center">
+    <a href="https://linkedin.com/in/shaheelhassan">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    </a>
+    <a href="mailto:shaheel085@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
+    </a>
+    <a href="https://github.com/shaheelhassan">
+      <img src="https://img.shields.io/github/followers/shaheelhassan?label=Followers&style=for-the-badge&color=2196F3&logo=github" alt="Followers">
+    </a>
+  </p>
 </div>
 
-<hr>
+---
 
-<!-- Row 3: What I Do -->
+### 💫 Summary
+I am a **Graphic Designer** and **Web Developer** with over two years of freelancing experience, specializing in creative designs and dynamic web applications. I also provide expertise in ERP solutions like **SAP** to optimize business processes. Let’s collaborate on innovative and impactful projects!
+
+- 🔭 Currently running **Proton Soft Tech** as CEO & Founder
+- 🌱 Studying **BS Computer Science** at Capital University of Science & Technology (2022-2026)
+- 👯 Expert in **Full Stack Development** and **Ethical Hacking**
+- 💬 Ask me about **Python, C++, and Cybersecurity**
+- ⚡ Location: **Islāmābād, Pakistan**
+
+---
+
+### 🛠️ My Tech Stack
+
 <div align="center">
+  
+  **Core Languages & Backend**
+  
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 
-<h3>🔥 What I Do</h3>
+  **Full Stack (MERN) & Frameworks**
+  
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
 
-<table width="80%" cellpadding="15" cellspacing="0" style="border: 4px solid #333; border-radius: 12px; background-color: #0d1117;">
-<tr>
-<td align="center" style="color: #c9d1d9; font-size: 16px;">
-
-<p>💻 <b>Build modern, responsive UIs</b></p>
-<p>⚡ <b>Develop scalable frontend architectures</b></p>
-<p>🔗 <b>Integrate REST APIs & backend services</b></p>
-<p>🗄️ <b>Work with databases & cloud platforms</b></p>
-<p>🤖 <b>Explore AI-powered web applications</b></p>
-
-</td>
-</tr>
-</table>
-
+  **Design & Creative Suite**
+  
+  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/ERP_SAP-008FD3?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Critical-red?style=for-the-badge&logo=strongswan&logoColor=white" />
 </div>
 
-<hr>
+---
 
-<!-- Footer -->
+### 💼 Experience
+
+| Position | Company | Duration | Location |
+| :--- | :--- | :--- | :--- |
+| **CEO & Founder** | **Proton Soft Tech** | July 2024 - Present | Islamabad, Pakistan |
+| **Full-stack Developer** | **Fauji Fertilizer Company Limited** | Aug 2024 - Sept 2024 | Rawalpindi, Pakistan |
+| **Web & Graphic Designer** | **Upwork** | June 2022 - Present | Remote |
+| **Graphic Designer** | **Mahad Ali Printers** | Jan 2020 - Feb 2022 | Islamabad, Pakistan |
+
+---
+
+### 📜 Certifications & Skills
+- 🎓 **Applied Cyber Security**
+- 🎨 **Graphic Design Specialist**
+- 💻 **Freelancing Professional**
+- 🛡️ **Cybersecurity Fundamentals**
+
+---
+
+### 📊 GitHub Analytics
+
 <div align="center">
-⭐️ <i>Check out my repositories and feel free to collaborate</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=shaheelhassan&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaheelhassan&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaheelhassan&theme=tokyonight&hide_border=true" width="100%" />
+</div>
+
+---
+
+### 📫 Connect with Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/shaheelhassan" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:shaheel085@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://upwork.com/freelancers/~yourid" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=60&section=footer" width="100%" />
+</div>
+
